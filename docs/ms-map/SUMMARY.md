@@ -1,3 +1,4 @@
++   [微软地图教程](README.md)
 +   [零、简介](00.md)
 +   [一、Microsoft 和地图入门](01.md)
 +   [二、使用 Azure 轻松托管](02.md)
@@ -9,4 +10,3 @@
 +   [八、Windows 应用商店应用的必应地图](08.md)
 +   [九、Windows Phone 8 的必应地图](09.md)
 +   [十、Excel 的 PowerMap](10.md)
-+   [微软地图教程](README.md)

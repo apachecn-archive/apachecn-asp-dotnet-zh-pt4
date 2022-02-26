@@ -1,3 +1,4 @@
++   [Asp.NET SignalR 高级教程](README.md)
 +   [一、实时网络和 ASP.NET SignalR 简介](01.md)
 +   [二、SignalR 概述](02.md)
 +   [三、使用 HUB 开发 SignalR 应用](03.md)
@@ -8,4 +9,3 @@
 +   [八、SignalR 的配置、部署和安全方面](08.md)
 +   [九、案例研究 1：股票行情自动收录器](09.md)
 +   [十、构建协作绘图应用](10.md)
-+   [Asp.NET SignalR 高级教程](README.md)
