@@ -1,6 +1,6 @@
-# C# 与 Azure 函数实用指南
+# Asp.NET SignalR 高级教程
 
-> 原文：[Hands-on Azure Functions with C#](https://zh.book4you.org/book/17008178/acf453)
+> 原文：[Pro ASP.NET SignalR Real-Time Communication in .NET with SignalR 2.1](https://zh.book4you.org/book/5931511/e62941)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

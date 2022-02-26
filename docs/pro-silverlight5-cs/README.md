@@ -1,6 +1,6 @@
-# C# 与 Azure 函数实用指南
+# C# SilverLight 高级教程
 
-> 原文：[Hands-on Azure Functions with C#](https://zh.book4you.org/book/17008178/acf453)
+> 原文：[Pro Silverlight 5 in C#](https://zh.book4you.org/book/1291564/93a377)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
